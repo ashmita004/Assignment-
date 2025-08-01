@@ -1,0 +1,52 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Assignment 1"
+      ],
+      "metadata": {
+        "id": "7M69EtgahFjc"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        " 1.**What is the significance of user-centered design in ui/ux design?**\n",
+        "\n",
+        "  - The user centered play an important role in ui/ux design. Users are the centric part and all the work is done by keeping them as mediators. Let's see how?\n",
+        "\n",
+        " - As we know what ui means user interface in which we focus on the visual part of the application like interface, layout,and topography of an application.\n",
+        "\n",
+        "   - Let's take an eg.of youtube. When we open the app first we see there is a search icon, comments option, like, subscribe icon. And there is more important thing we see there are many options on the top and there are some topics that appear above which come according to your interest, whatever we search and make search more easier. They add voice icons so there is no use of both hands to write.\n",
+        "\n",
+        " - so as ui design has more focus on to make the application more user-friendly and easily navigate by the users.\n",
+        "                                    \n",
+        " - On the other hand UX design means user experience. Whatever we experienced on the application like we take the eg. of Youtube when we opened the app we saw the videos start playing automatically without sound so these features are done through ux design. so if you like the video you can watch if you don't you can swipe up to see the next video.\n",
+        "                                                    \n",
+        " - Ux design focuses on the principles,methodology and focus on usability, accessibility to satisfy the user. UX design works according to the user's preference of what they need and what they want.So we can meet their expectations.\n",
+        "\n",
+        " - At last we can say that ux is intangible in nature. We can not see but we can experience through ui design.\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "tz7ViTXHi3Mz"
+      }
+    }
+  ]
+}
